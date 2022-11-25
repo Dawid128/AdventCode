@@ -1,0 +1,5 @@
+﻿AB
+AA -> B
+BB -> B
+AB -> A
+BA -> A
