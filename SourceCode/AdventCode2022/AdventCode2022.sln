@@ -5,7 +5,9 @@ VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day01_CalorieCounting", "Day01_CalorieCounting\Day01_CalorieCounting.csproj", "{B439DB81-C01D-40DA-95C0-192BD818DDB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day02_RockPaperScissors", "Day02_RockPaperScissors\Day02_RockPaperScissors.csproj", "{FD9E6C6E-1B68-427C-B4AB-4CAB522C734A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day02_RockPaperScissors", "Day02_RockPaperScissors\Day02_RockPaperScissors.csproj", "{FD9E6C6E-1B68-427C-B4AB-4CAB522C734A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day03_RucksackReorganization", "Day03_RucksackReorganization\Day03_RucksackReorganization.csproj", "{B8D0EE3D-B4BB-49C1-8D1C-E321DFE76058}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{FD9E6C6E-1B68-427C-B4AB-4CAB522C734A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD9E6C6E-1B68-427C-B4AB-4CAB522C734A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD9E6C6E-1B68-427C-B4AB-4CAB522C734A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8D0EE3D-B4BB-49C1-8D1C-E321DFE76058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D0EE3D-B4BB-49C1-8D1C-E321DFE76058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D0EE3D-B4BB-49C1-8D1C-E321DFE76058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D0EE3D-B4BB-49C1-8D1C-E321DFE76058}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
