@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day09_RopeBridge", "Day09_R
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day10_Cathode-RayTube", "Day10_Cathode-RayTube\Day10_Cathode-RayTube.csproj", "{791C5809-AE62-4BD3-918A-29F48991C295}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day11_MonkeyInTheMiddle", "Day11_MonkeyInTheMiddle\Day11_MonkeyInTheMiddle.csproj", "{85154887-5EFA-4CFC-AFAC-88AEAB2A2D2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day11_MonkeyInTheMiddle", "Day11_MonkeyInTheMiddle\Day11_MonkeyInTheMiddle.csproj", "{85154887-5EFA-4CFC-AFAC-88AEAB2A2D2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day12_HillClimbingAlgorithm", "Day12_HillClimbingAlgorithm\Day12_HillClimbingAlgorithm.csproj", "{0902135C-A716-41DF-9E15-791CC6B9CA68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{85154887-5EFA-4CFC-AFAC-88AEAB2A2D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85154887-5EFA-4CFC-AFAC-88AEAB2A2D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85154887-5EFA-4CFC-AFAC-88AEAB2A2D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0902135C-A716-41DF-9E15-791CC6B9CA68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0902135C-A716-41DF-9E15-791CC6B9CA68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0902135C-A716-41DF-9E15-791CC6B9CA68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0902135C-A716-41DF-9E15-791CC6B9CA68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
